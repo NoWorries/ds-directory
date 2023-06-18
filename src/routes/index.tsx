@@ -8,7 +8,13 @@ export default function Home() {
       <p>Easily search public design system documentation.</p>
       <script async src="https://cse.google.com/cse.js?cx=927b3548930934c92">
 </script>
-<div class="gcse-search"></div>
+      <script async src="https://cse.google.com/cse.js?cx=927b3548930934c92">
+</script>
+<div class="gcse-searchbox-only"></div>
+      
+<script async src="https://cse.google.com/cse.js?cx=927b3548930934c92">
+</script>
+<div class="gcse-searchresults-only"></div>
      
     </main>
   );
