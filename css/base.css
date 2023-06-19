@@ -1,17 +1,24 @@
 
 
 :root {
-  --primary-color: #5f298c;
+  --primary-color: #b3fafb;
   --secondary-color: #faf9f4;
   --tertiary-color: #434250;
 
-  --header-bg-color: var(--primary-color);
+  --primary-bg-color: #faf9f4;
+  --secondary-bg-color: #001721;
+
+  --header-bg-color: var(--secondary-bg-color);
   --header-text-color: var(--secondary-color);
 
   --main-text-color: var(--tertiary-color);
-  --main-bg-color: var(--secondary-color);
+  --main-bg-color: var(--primary-bg-color);
 
   --max-width: 768px;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
@@ -19,8 +26,15 @@ body {
       'Open Sans', 'Helvetica Neue', sans-serif;
       padding: 0;
       margin: 0;
-  }
-  
+      background-color: var(--main-bg-color);
+ 
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
   a {
     margin-right: 1rem;
   }
@@ -29,9 +43,10 @@ body {
     background-color: var(--header-bg-color);
     color: var(--header-text-color);
     padding: 4rem 2rem;
+    border-bottom: 2px solid var(--primary-color);
   }
 
-  header .wrap {
+  .wrap {
     max-width: var(--max-width);
     margin: 0 auto;
   }
@@ -44,11 +59,11 @@ body {
   }
 
   header h1 a {
-    color: var(--header-text-color);
+    color: var(--primary-color);
     text-decoration: none;
   }
   header h1 a:hover {
-    border-bottom: 2px solid var(--header-text-color)
+    border-bottom: 1px solid var(--primary-color);
   }
 
   header p {
@@ -58,8 +73,27 @@ body {
     font-weight: 300;
   }
 
+footer {
+  background-color: white;
+  margin-top: auto;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: var(--tertiary-color);
+  text-align: center;
+}
+
+footer a {
+  color: var(--tertiary-color);
+  text-decoration-color: var(--primary-color);
+  text-decoration-thickness: 3px;
+}
+footer a:hover {
+  color: var(--secondary-bg-color);
+  text-decoration-color: var(--secondary-bg-color);
+}
+
   main {
-    background-color: var(--main-bg-color);
+    color: var(--main-bg-color);
     text-align: left;
     padding: 0rem 0rem 2rem;
     margin: 0 auto;
@@ -72,6 +106,7 @@ body {
 
   .gcse-searchbox {
     max-width: var(--max-width) !important;
+    background:none !important;
   }
   
   @media (min-width: 480px) {
