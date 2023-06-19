@@ -1,0 +1,86 @@
+
+
+:root {
+  --primary-color: #5f298c;
+  --secondary-color: #faf9f4;
+  --tertiary-color: #434250;
+
+  --header-bg-color: var(--primary-color);
+  --header-text-color: var(--secondary-color);
+
+  --main-text-color: var(--tertiary-color);
+  --main-bg-color: var(--secondary-color);
+
+  --max-width: 768px;
+}
+
+body {
+    font-family: Gordita, Roboto, Oxygen, Ubuntu, Cantarell,
+      'Open Sans', 'Helvetica Neue', sans-serif;
+      padding: 0;
+      margin: 0;
+  }
+  
+  a {
+    margin-right: 1rem;
+  }
+  
+  header {
+    background-color: var(--header-bg-color);
+    color: var(--header-text-color);
+    padding: 4rem 2rem;
+  }
+
+  header .wrap {
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+
+  header h1 {
+    font-size: 4rem;
+    font-weight: 200;
+    line-height: 1.1;
+    margin: auto 0 2rem;
+  }
+
+  header h1 a {
+    color: var(--header-text-color);
+    text-decoration: none;
+  }
+  header h1 a:hover {
+    border-bottom: 2px solid var(--header-text-color)
+  }
+
+  header p {
+    margin: 2rem auto 1rem;
+    line-height: 1.35;
+    font-size: 1.3rem;
+    font-weight: 300;
+  }
+
+  main {
+    background-color: var(--main-bg-color);
+    text-align: left;
+    padding: 0rem 0rem 2rem;
+    margin: 0 auto;
+    max-width: var(--max-width);
+  }
+  
+  .gsc-control-cse {
+    padding: 0em;
+  }
+
+  .gcse-searchbox {
+    max-width: var(--max-width) !important;
+  }
+  
+  @media (min-width: 480px) {
+    h1 {
+      max-width: none;
+    }
+  
+    p {
+      max-width: none;
+    }
+  }
+  
