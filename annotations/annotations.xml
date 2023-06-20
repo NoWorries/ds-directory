@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations>
+    <Annotation about="design.wonderflow.ai/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.wonderflow.ai/*"></AdditionalData>
+    <Comment>Wonderflow - Wanda Design System</Comment>
+</Annotation>
+<Annotation about="designers.italia.it/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://designers.italia.it/*"></AdditionalData>
+    <Comment>Italian Public Administration - .it Designers Italy</Comment>
+</Annotation>
+<Annotation about="pulse.heartbeat.ua/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://pulse.heartbeat.ua/*"></AdditionalData>
+    <Comment>Heartbeat - .pulse</Comment>
+</Annotation>
+<Annotation about="design.axa.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.axa.com/*"></AdditionalData>
+    <Comment>AXA - AXA Digital Guidelines</Comment>
+</Annotation>
+<Annotation about="www.oracle.com/webfolder/ux/middleware/alta/*index.html" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.oracle.com/webfolder/ux/middleware/alta/index.html*"></AdditionalData>
+    <Comment>Oracle - Alta</Comment>
+</Annotation>
+<Annotation about="ant.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://ant.design/*"></AdditionalData>
+    <Comment>Ant Financial - Ant Design</Comment>
+</Annotation>
+<Annotation about="anvil.servicetitan.com" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://anvil.servicetitan.com*"></AdditionalData>
+    <Comment>ServiceTitan - Anvil</Comment>
+</Annotation>
+<Annotation about="design.alfabank.ru/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://design.alfabank.ru/*"></AdditionalData>
+    <Comment>Alfa-Bank - Arui-Feather</Comment>
+</Annotation>
+<Annotation about="asphalt.gojek.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://asphalt.gojek.io/*"></AdditionalData>
+    <Comment>GO-JEK - Asphalt</Comment>
+</Annotation>
+<Annotation about="atlassian.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://atlassian.design/*"></AdditionalData>
+    <Comment>Atlassian - Atlassian Design Language</Comment>
+</Annotation>
+<Annotation about="www.audi.com/ci/en/guides/user-interface/*introduction.html" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://www.audi.com/ci/en/guides/user-interface/introduction.html*"></AdditionalData>
+    <Comment>Audi - Audi UI</Comment>
+</Annotation>
+<Annotation about="designsystem.gov.au/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://designsystem.gov.au/*"></AdditionalData>
+    <Comment>Australian Government - Australian Government Design System</Comment>
+</Annotation>
+<Annotation about="backpack.github.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://backpack.github.io/*"></AdditionalData>
+    <Comment>Skyscanner - Backpack</Comment>
+</Annotation>
+<Annotation about="barista.dynatrace.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://barista.dynatrace.com/*"></AdditionalData>
+    <Comment>Dynatrace - Barista</Comment>
+</Annotation>
+<Annotation about="baseweb.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://baseweb.design/*"></AdditionalData>
+    <Comment>Uber - Base Web</Comment>
+</Annotation>
+<Annotation about="biings.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://biings.design/*"></AdditionalData>
+    <Comment>Biings - Biings Design System</Comment>
+</Annotation>
+<Annotation about="blocks.cbrebuild.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://blocks.cbrebuild.com/*"></AdditionalData>
+    <Comment>CBRE Build - Blocks Design System</Comment>
+</Annotation>
+<Annotation about="boltdesignsystem.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://boltdesignsystem.com/*"></AdditionalData>
+    <Comment>Pega Digital - Bolt Design System</Comment>
+</Annotation>
+<Annotation about="canvas.hubspot.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://canvas.hubspot.com/*"></AdditionalData>
+    <Comment>Hubspot - Canvas Design System</Comment>
+</Annotation>
+<Annotation about="www.carbondesignsystem.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.carbondesignsystem.com/*"></AdditionalData>
+    <Comment>IBM - Carbon Design System</Comment>
+</Annotation>
+<Annotation about="rei.github.io/rei-cedar-docs/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://rei.github.io/rei-cedar-docs/*"></AdditionalData>
+    <Comment>REI - Cedar</Comment>
+</Annotation>
+<Annotation about="vmware.github.io/clarity/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://vmware.github.io/clarity/*"></AdditionalData>
+    <Comment>VMware - Clarity Design System</Comment>
+</Annotation>
+<Annotation about="style.codeforamerica.org/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://style.codeforamerica.org/*"></AdditionalData>
+    <Comment>Code for America - Code for America Style Guide</Comment>
+</Annotation>
+<Annotation about="comet.discoveryeducation.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://comet.discoveryeducation.com/*"></AdditionalData>
+    <Comment>Discovery Education - Comet</Comment>
+</Annotation>
+<Annotation about="beelinedesignsystem.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://beelinedesignsystem.com/*"></AdditionalData>
+    <Comment>Beeline - Design System “2.0”</Comment>
+</Annotation>
+<Annotation about="design.mutualofomaha.com/digital/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://design.mutualofomaha.com/digital/*"></AdditionalData>
+    <Comment>Mutual of Omaha - Digital Design Guide</Comment>
+</Annotation>
+<Annotation about="www.digital.nsw.gov.au/*digital-design-system" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.digital.nsw.gov.au/digital-design-system*"></AdditionalData>
+    <Comment>State of New South Wales - Digital NSW</Comment>
+</Annotation>
+<Annotation about="www.duetds.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.duetds.com/*"></AdditionalData>
+    <Comment>LocalTapiola - Duet</Comment>
+</Annotation>
+<Annotation about="etrade.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://etrade.design/*"></AdditionalData>
+    <Comment>Design Language - E-Trade</Comment>
+</Annotation>
+<Annotation about="elastic.github.io/eui/#/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://elastic.github.io/eui/#/*"></AdditionalData>
+    <Comment>Elastic - Elastic UI</Comment>
+</Annotation>
+<Annotation about="elementary.io/en/docs/*human-interface-guidelines" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://elementary.io/en/docs/human-interface-guidelines*"></AdditionalData>
+    <Comment>Elementary - Elementary - Human Interface Guidelines</Comment>
+</Annotation>
+<Annotation about="evergreen.segment.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://evergreen.segment.com/*"></AdditionalData>
+    <Comment>Segment - Evergreen</Comment>
+</Annotation>
+<Annotation about="feelix.myob.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://feelix.myob.com/*"></AdditionalData>
+    <Comment>MYOB - Feelix</Comment>
+</Annotation>
+<Annotation about="design.fusionfabric.cloud/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.fusionfabric.cloud/*"></AdditionalData>
+    <Comment>Finastra - Finastra Design System</Comment>
+</Annotation>
+<Annotation about="experience.sap.com/fiori-design-web/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://experience.sap.com/fiori-design-web/*"></AdditionalData>
+    <Comment>SAP - Fiori</Comment>
+</Annotation>
+<Annotation about="sap.github.io/fundamental/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://sap.github.io/fundamental/*"></AdditionalData>
+    <Comment>SAP - Fiori Fundamentals</Comment>
+</Annotation>
+<Annotation about="fishtank.bna.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://fishtank.bna.com/*"></AdditionalData>
+    <Comment>Bloomberg BNA - Fishtank</Comment>
+</Annotation>
+<Annotation about="www.futurelearn.com/*pattern-library" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.futurelearn.com/pattern-library*"></AdditionalData>
+    <Comment>FutureLearn - FutureLearn Pattern Library</Comment>
+</Annotation>
+<Annotation about="gel.westpacgroup.com.au/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://gel.westpacgroup.com.au/*"></AdditionalData>
+    <Comment>Westpac - GEL</Comment>
+</Annotation>
+<Annotation about="design-system.service.gov.uk/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design-system.service.gov.uk/*"></AdditionalData>
+    <Comment>GOV.UK - GOV.UK Design System</Comment>
+</Annotation>
+<Annotation about="www.bbc.co.uk/gel/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://www.bbc.co.uk/gel/*"></AdditionalData>
+    <Comment>BBC - Global Experience Language (GEL)</Comment>
+</Annotation>
+<Annotation about="grommet.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://grommet.io/*"></AdditionalData>
+    <Comment>Hewlett Packard - Grommet</Comment>
+</Annotation>
+<Annotation about="style.helpscout.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://style.helpscout.com/*"></AdditionalData>
+    <Comment>Help Scout - Help Scout Style Guide</Comment>
+</Annotation>
+<Annotation about="design.herokai.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.herokai.com/*"></AdditionalData>
+    <Comment>Heroku - Heroki Design</Comment>
+</Annotation>
+<Annotation about="developer.apple.com/design/human-interface-guidelines/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://developer.apple.com/design/human-interface-guidelines/*"></AdditionalData>
+    <Comment>Apple - Human Interface Guidelines</Comment>
+</Annotation>
+<Annotation about="www.ibm.com/design/language/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.ibm.com/design/language/*"></AdditionalData>
+    <Comment>IBM - IBM Design Language</Comment>
+</Annotation>
+<Annotation about="design.infor.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.infor.com/*"></AdditionalData>
+    <Comment>Infor - Infor Design System</Comment>
+</Annotation>
+<Annotation about="instructure.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://instructure.design/*"></AdditionalData>
+    <Comment>Instructure Inc - Instructure UI</Comment>
+</Annotation>
+<Annotation about="www.flexport.com/*design" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.flexport.com/design*"></AdditionalData>
+    <Comment>Flexport - Latitude</Comment>
+</Annotation>
+<Annotation about="lexicondesign.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://lexicondesign.io/*"></AdditionalData>
+    <Comment>Liferay - Lexicon</Comment>
+</Annotation>
+<Annotation about="www.lightningdesignsystem.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.lightningdesignsystem.com/*"></AdditionalData>
+    <Comment>Salesforce - Lightning Design System</Comment>
+</Annotation>
+<Annotation about="www.emd.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.emd.design/*"></AdditionalData>
+    <Comment>Merck - Liquid</Comment>
+</Annotation>
+<Annotation about="luna.sainsburys.co.uk/*guidelines" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://luna.sainsburys.co.uk/guidelines*"></AdditionalData>
+    <Comment>Sainsbury’s - Luna</Comment>
+</Annotation>
+<Annotation about="ux.mailchimp.com/*patterns" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://ux.mailchimp.com/patterns*"></AdditionalData>
+    <Comment>MailChimp - MailChimp Pattern Library</Comment>
+</Annotation>
+<Annotation about="www.mapbox.com/base/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.mapbox.com/base/*"></AdditionalData>
+    <Comment>Mapbox - Mapbox Base</Comment>
+</Annotation>
+<Annotation about="marvelapp.com/styleguide/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://marvelapp.com/styleguide/*"></AdditionalData>
+    <Comment>Marvel - Marvel Styleguide</Comment>
+</Annotation>
+<Annotation about="material.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://material.io/*"></AdditionalData>
+    <Comment>Google - Material Design</Comment>
+</Annotation>
+<Annotation about="mineral-ui.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://mineral-ui.com/*"></AdditionalData>
+    <Comment>CA Technologies - Mineral UI</Comment>
+</Annotation>
+<Annotation about="design.mixpanel.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.mixpanel.com/*"></AdditionalData>
+    <Comment>Mixpanel Design System - Mixpanel</Comment>
+</Annotation>
+<Annotation about="mongodb.design/#/ui-design-system/*welcome" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://mongodb.design/#/ui-design-system/welcome*"></AdditionalData>
+    <Comment>MongoDB - MongoDB Design System</Comment>
+</Annotation>
+<Annotation about="designsystem.morningstar.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://designsystem.morningstar.com/*"></AdditionalData>
+    <Comment>Morningstar - Morningstar Design System</Comment>
+</Annotation>
+<Annotation about="design.trello.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.trello.com/*"></AdditionalData>
+    <Comment>Trello - Nachos</Comment>
+</Annotation>
+<Annotation about="ux.opower.com/opattern/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://ux.opower.com/opattern/*"></AdditionalData>
+    <Comment>OPower - OPattern</Comment>
+</Annotation>
+<Annotation about="developer.microsoft.com/en-us/*fabric" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://developer.microsoft.com/en-us/fabric*"></AdditionalData>
+    <Comment>Microsoft - Office UI Fabric</Comment>
+</Annotation>
+<Annotation about="orbit.kiwi/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://orbit.kiwi/*"></AdditionalData>
+    <Comment>Kiwi.com - Orbit</Comment>
+</Annotation>
+<Annotation about="design.gitlab.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.gitlab.com/*"></AdditionalData>
+    <Comment>Gitlab - Pajamas - Gitlab Design System</Comment>
+</Annotation>
+<Annotation about="www.patternfly.org/v4/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.patternfly.org/v4/*"></AdditionalData>
+    <Comment>Red Hat - PatternFly</Comment>
+</Annotation>
+<Annotation about="design.pega.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.pega.com/*"></AdditionalData>
+    <Comment>Pegasystems - Pega Cosmos</Comment>
+</Annotation>
+<Annotation about="design.firefox.com/photon/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.firefox.com/photon/*"></AdditionalData>
+    <Comment>Firefox - Photon Design System</Comment>
+</Annotation>
+<Annotation about="design-system.pluralsight.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design-system.pluralsight.com/*"></AdditionalData>
+    <Comment>Pluralsight - Pluralsight Design System</Comment>
+</Annotation>
+<Annotation about="polaris.shopify.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://polaris.shopify.com/*"></AdditionalData>
+    <Comment>Shopify - Polaris</Comment>
+</Annotation>
+<Annotation about="www.predix-ui.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.predix-ui.com/*"></AdditionalData>
+    <Comment>General Electric - Predix Design System</Comment>
+</Annotation>
+<Annotation about="pricelinelabs.github.io/design-system/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://pricelinelabs.github.io/design-system/*"></AdditionalData>
+    <Comment>Priceline - Priceline One</Comment>
+</Annotation>
+<Annotation about="styleguide.github.com/primer/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://styleguide.github.com/primer/*"></AdditionalData>
+    <Comment>GitHub - Primer</Comment>
+</Annotation>
+<Annotation about="protocol.mozilla.org/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://protocol.mozilla.org/*"></AdditionalData>
+    <Comment>Mozilla - Protocol</Comment>
+</Annotation>
+<Annotation about="catho.github.io/quantum/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://catho.github.io/quantum/*"></AdditionalData>
+    <Comment>Catho - Quantum</Comment>
+</Annotation>
+<Annotation about="designsystem.quickbooks.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://designsystem.quickbooks.com/*"></AdditionalData>
+    <Comment>QuickBooks - QuickBooks Design System</Comment>
+</Annotation>
+<Annotation about="ui-kit.rambler.ru/#/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://ui-kit.rambler.ru/#/*"></AdditionalData>
+    <Comment>Rambler - Ratio</Comment>
+</Annotation>
+<Annotation about="react95.github.io/React95/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://react95.github.io/React95/*"></AdditionalData>
+    <Comment>React95 - React95</Comment>
+</Annotation>
+<Annotation about="rimble.consensys.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://rimble.consensys.design/*"></AdditionalData>
+    <Comment>ConsenSys - Rimble</Comment>
+</Annotation>
+<Annotation about="rivet.uits.iu.edu/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://rivet.uits.iu.edu/*"></AdditionalData>
+    <Comment>Indiana University - Rivet</Comment>
+</Annotation>
+<Annotation about="rizzo.lonelyplanet.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://rizzo.lonelyplanet.com/*"></AdditionalData>
+    <Comment>Lonely Planet - Rizzo</Comment>
+</Annotation>
+<Annotation about="sproutsocial.com/seeds/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://sproutsocial.com/seeds/*"></AdditionalData>
+    <Comment>Sprout Social - Seeds</Comment>
+</Annotation>
+<Annotation about="seek-oss.github.io/seek-style-guide/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://seek-oss.github.io/seek-style-guide/*"></AdditionalData>
+    <Comment>Seek - Seek Style Guide</Comment>
+</Annotation>
+<Annotation about="styleguide.sendgrid.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://styleguide.sendgrid.com/*"></AdditionalData>
+    <Comment>SendGrid - SendGrid Style Guide</Comment>
+</Annotation>
+<Annotation about="styleguide.servicenow.com/#!/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://styleguide.servicenow.com/#!/*"></AdditionalData>
+    <Comment>ServiceNow - ServiceNow Design System</Comment>
+</Annotation>
+<Annotation about="skyline.benevity.org/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://skyline.benevity.org/*"></AdditionalData>
+    <Comment>Benevity - Skyline</Comment>
+</Annotation>
+<Annotation about="design.bulb.co.uk/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://design.bulb.co.uk/*"></AdditionalData>
+    <Comment>Bulb - Solar Design System</Comment>
+</Annotation>
+<Annotation about="solid.buzzfeed.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://solid.buzzfeed.com/*"></AdditionalData>
+    <Comment>BuzzFeed - Solid Style Guide</Comment>
+</Annotation>
+<Annotation about="spectrum.adobe.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://spectrum.adobe.com/*"></AdditionalData>
+    <Comment>Adobe - Spectrum</Comment>
+</Annotation>
+<Annotation about="stackoverflow.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://stackoverflow.design/*"></AdditionalData>
+    <Comment>Stack Overflow - Stacks</Comment>
+</Annotation>
+<Annotation about="meetup.github.io/swarm-design-system/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://meetup.github.io/swarm-design-system/*"></AdditionalData>
+    <Comment>Meetup - Swarm Design System</Comment>
+</Annotation>
+<Annotation about="thumbprint.design/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://thumbprint.design/*"></AdditionalData>
+    <Comment>Thumbtack - Thumbprint</Comment>
+</Annotation>
+<Annotation about="designsystem.digital.gov/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://designsystem.digital.gov/*"></AdditionalData>
+    <Comment>U.S. Government - U.S. Web Design System</Comment>
+</Annotation>
+<Annotation about="uniform.hudl.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://uniform.hudl.com/*"></AdditionalData>
+    <Comment>Hudl - Uniform</Comment>
+</Annotation>
+<Annotation about="styleguide.vtex.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://styleguide.vtex.com/*"></AdditionalData>
+    <Comment>VTEX - VTEX Styleguide</Comment>
+</Annotation>
+<Annotation about="vanillaframework.io/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://vanillaframework.io/*"></AdditionalData>
+    <Comment>Ubuntu - Vanilla</Comment>
+</Annotation>
+<Annotation about="vercel.co/*design" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://vercel.co/design*"></AdditionalData>
+    <Comment>Vercel - Vercel</Comment>
+</Annotation>
+<Annotation about="design-system.wonderbly.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="http://design-system.wonderbly.com/*"></AdditionalData>
+    <Comment>Wonderbly - Wonderbly Design System</Comment>
+</Annotation>
+<Annotation about="design.workday.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://design.workday.com/*"></AdditionalData>
+    <Comment>Workday - Workday Canvas</Comment>
+</Annotation>
+<Annotation about="x.biteable.com/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://x.biteable.com/*"></AdditionalData>
+    <Comment>Biteable - X (Biteable Design System)</Comment>
+</Annotation>
+<Annotation about="www.yelp.com/*styleguide" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://www.yelp.com/styleguide*"></AdditionalData>
+    <Comment>Yelp - Yelp Styleguide</Comment>
+</Annotation>
+<Annotation about="gympass.github.io/yoga/*" timestamp="0x0005fe6f912e9ac1" score="1.0">
+    <Label name="_include_"></Label>
+    <AdditionalData attribute="original_url" value="https://gympass.github.io/yoga/*"></AdditionalData>
+    <Comment>Gympass - Yoga</Comment>
+</Annotation><a href="https://garden.zendesk.com/"><h3>Zendesk</h3><h2>Zendesk Garden</h2></a>
+</Annotations>
