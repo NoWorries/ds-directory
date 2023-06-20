@@ -33,6 +33,7 @@ body {
   -webkit-flex-direction: column;
   flex-direction: column;
   min-height: 100dvh;
+  min-width: 320px;
 }
 
   
@@ -89,7 +90,7 @@ ul.list_sites {
   display: block;
   width: 100%;
   margin: 1rem 0 !important;
-  padding: 0 1.5rem;
+  padding: 0;
 }
 ul.list_sites li {
   margin-bottom: 0.8rem;
@@ -132,13 +133,17 @@ footer a:hover {
     background:none !important;
   }
   
-  @media (min-width: 480px) {
+  @media (max-width: 768px) {
     h1 {
       max-width: none;
     }
   
     p {
       max-width: none;
+    }
+    h2,
+    ul.list_sites {
+      padding: 0 1.5rem;
     }
   }
   
