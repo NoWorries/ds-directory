@@ -1,5 +1,5 @@
     [[redirects]]
-      from = "/*"
+      from = "https://design-system-search.netlify.com/*"
       to = "https://designsystems.directory"
       status = 301
       force = true
