@@ -34,6 +34,7 @@ body {
   flex-direction: column;
   min-height: 100dvh;
   min-width: 320px;
+  color: var(--tertiary-color);
 }
 
   
@@ -95,6 +96,7 @@ ul.list_sites {
 ul.list_sites li {
   margin-bottom: 0.8rem;
 }
+p a.submit,
 ul.list_sites li a {
   padding: 0.3rem 0;
   color: var(--tertiary-color);
@@ -116,7 +118,6 @@ footer a:hover {
 }
 
   main {
-    color: var(--main-bg-color);
     text-align: left;
     padding: 0rem 0 2rem;
     margin: 0 auto;
