@@ -125,6 +125,10 @@ footer a:hover {
     max-width: var(--max-width);
   }
   
+  ul {
+    list-style: none; /* Remove default bullets */
+  }
+
   .gsc-control-cse {
     padding: 0em;
   }
@@ -142,7 +146,7 @@ footer a:hover {
     p {
       max-width: none;
     }
-    h2,
+    main p, main h2,
     ul.list_sites {
       padding: 0 1.5rem;
     }
