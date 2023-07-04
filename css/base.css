@@ -12,6 +12,7 @@
   --header-text-color: var(--secondary-color);
 
   --main-text-color: var(--tertiary-color);
+  --main-border-color: var(--tertiary-color);
   --main-bg-color: var(--primary-bg-color);
 
   --max-width: 768px;
@@ -84,28 +85,119 @@ h2 {
   font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.1;
-  margin: 2rem 0 2rem;
+  margin: 2rem 0 1.2rem;
   color: var(--secondary-bg-color);
 }
-ul.list_sites {
+ul.list {
   display: block;
   width: 100%;
   margin: 1rem 0 !important;
   padding: 0;
 }
-ul.list_sites li {
+ul.list li {
   margin-bottom: 0.8rem;
 }
 p a.submit,
-ul.list_sites li a {
+ul.list li a {
   padding: 0.3rem 0;
   color: var(--tertiary-color);
   text-decoration-color: var(--primary-color);
   text-decoration-thickness: 3px;
 }
-ul.list_sites li a:hover {
+ul.list li a:hover {
   color: var(--secondary-bg-color);
   text-decoration-color: var(--secondary-bg-color);
+}
+.card-wrap {
+  box-sizing: border-box;
+  background: white;
+    padding: 1.5rem;
+    margin: 1.5rem -1.5rem 0;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0,0,0,0.05) 0 0.1rem 1rem;
+}
+.card-wrap h2 {
+  margin-top: 0;
+}
+.card-wrap p{
+  margin-bottom:0.3rem;
+}
+.search-wrap {
+  border-bottom: rgba(0,0,0,0.05) solid 1px;
+  padding-bottom:1.5rem;
+  margin-bottom:2rem;
+}
+span.org {
+  font-weight: 600;
+}
+.sort-group {
+  padding:8px 0 0;
+}
+.sort-title {
+  font-weight: 600;
+  margin-right: 0.6rem;
+}
+input.site-search {
+  padding:1rem;
+  margin: 0 -1rem;
+  font-size: 1.1rem;
+  width: calc(100% + 2rem);
+  border-radius: 0.5rem;
+  border: rgba(0,0,0,0.1) solid 2px;
+}
+.sort {
+  margin-right: 0.7rem;
+  padding: 0.3rem 0;
+  display: inline-block;
+  color: var(--tertiary-color);
+  text-decoration: underline;
+  text-decoration-color: var(--primary-color);
+  text-decoration-thickness: 3px;
+}
+.sort:hover {
+  color: var(--secondary-bg-color);
+  text-decoration-color: var(--secondary-bg-color);
+}
+.sort:focus {
+}
+.sort:after {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  content:"";
+  position: relative;
+  top:-10px;
+  right:-5px;
+}
+.sort .asc,
+.sort .dsc {
+
+  text-decoration-color: var(--primary-color);
+  text-decoration-thickness: 3px;
+}
+.sort.asc:after {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid var(--tertiary-color);
+  content:"";
+  position: relative;
+  top:13px;
+  right:-5px;
+}
+.sort.desc:after {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid var(--tertiary-color);
+  content:"";
+  position: relative;
+  top:-10px;
+  right:-5px;
 }
 footer a {
   color: var(--tertiary-color);
@@ -125,6 +217,10 @@ footer a:hover {
     max-width: var(--max-width);
   }
   
+  ul {
+    list-style: none; /* Remove default bullets */
+  }
+
   .gsc-control-cse {
     padding: 0em;
   }
@@ -142,9 +238,21 @@ footer a:hover {
     p {
       max-width: none;
     }
-    h2,
-    ul.list_sites {
-      padding: 0 1.5rem;
+    main p, main h2,
+    ul.list,
+    .search-wrap {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+      border: none;
+    }
+    .card-wrap {
+      margin-top:0;
+    }
+    input.site-search {
+      padding:1rem;
+      margin: 0rem;
+      font-size: 1.1rem;
+      width: 100%;
     }
   }
   
