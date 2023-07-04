@@ -98,12 +98,14 @@ ul.list li {
   margin-bottom: 0.8rem;
 }
 p a.submit,
-ul.list li a {
+ul.list li a,
+.card-wrap a {
   padding: 0.3rem 0;
   color: var(--tertiary-color);
   text-decoration-color: var(--primary-color);
   text-decoration-thickness: 3px;
 }
+.card-wrap a:hover,
 ul.list li a:hover {
   color: var(--secondary-bg-color);
   text-decoration-color: var(--secondary-bg-color);
