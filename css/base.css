@@ -81,6 +81,12 @@ footer {
   color: var(--tertiary-color);
   text-align: center;
 }
+footer .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
 h2 {
   font-size: 1.6rem;
   font-weight: 400;
@@ -230,6 +236,38 @@ footer a:hover {
   .gcse-searchbox {
     max-width: var(--max-width) !important;
     background:none !important;
+  }
+
+  .textLink {
+    box-sizing: border-box;
+    border: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    line-height: 24px;
+    padding: 4px 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 600;
+    height: px;
+    border-radius: 6px;
+    font-weight: 600;
+    color: darkslategray;
+    text-decoration: none;
+  }
+  .textLink svg {
+    margin-right: 8px;
+    position: relative;
+  }
+  .donate {
+    background-color: #FD0;
+    margin-bottom: 4px;
+  }
+  .donate:hover {
+    box-shadow: inset 0 0 0 3px rgba(0, 0, 0, .3);
   }
   
   @media (max-width: 768px) {
