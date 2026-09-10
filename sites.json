@@ -1,0 +1,1237 @@
+[
+  {
+    "org": "Adeo",
+    "ds": "Mozaic Design System",
+    "url": "https://mozaic.adeo.cloud/"
+  },
+  {
+    "org": "Adobe",
+    "ds": "Spectrum",
+    "url": "https://spectrum.adobe.com/"
+  },
+  {
+    "org": "Alaska Airlines",
+    "ds": "Auro",
+    "url": "https://auro.alaskaair.com/"
+  },
+  {
+    "org": "Altinn",
+    "ds": "Altinn Design System",
+    "url": "https://docs.altinn.studio/"
+  },
+  {
+    "org": "Ant Financial",
+    "ds": "Ant Design",
+    "url": "https://ant.design/"
+  },
+  {
+    "org": "AOTU Labs",
+    "ds": "AT UIKIT",
+    "url": "https://at-ui.github.io/at-ui/#/en/"
+  },
+  {
+    "org": "Appear here",
+    "ds": "Bloom",
+    "url": "https://bloom.appearhere.co.uk/"
+  },
+  {
+    "org": "Apple",
+    "ds": "Human Interface Guidelines",
+    "url": "https://developer.apple.com/design/human-interface-guidelines/"
+  },
+  {
+    "org": "Arbetsförmedlingen",
+    "ds": "Design system",
+    "url": "https://designsystem.arbetsformedlingen.se/"
+  },
+  {
+    "org": "ArcGIS",
+    "ds": "Calcite",
+    "url": "https://developers.arcgis.com/calcite-design-system/"
+  },
+  {
+    "org": "Arts",
+    "ds": "Artsy Palette",
+    "url": "https://palette.artsy.net/"
+  },
+  {
+    "org": "Atlassian",
+    "ds": "Atlassian Design System",
+    "url": "https://atlassian.design/"
+  },
+  {
+    "org": "Audi",
+    "ds": "Audi UI",
+    "url": "https://www.audi.com/ci/en/guides/user-interface/introduction.html"
+  },
+  {
+    "org": "Australian Government, Department of Agriculture, Fisheries and Forestry",
+    "ds": "Agriculture Design System (AgDS)",
+    "url": "https://design-system.agriculture.gov.au/"
+  },
+  {
+    "org": "Australian Government, Department of Health",
+    "ds": "Health Design System",
+    "url": "https://designsystem.health.gov.au/"
+  },
+  {
+    "org": "Australian Open Source Community",
+    "ds": "GOLD Design System",
+    "url": "https://gold.designsystemau.org/"
+  },
+  {
+    "org": "AutoGuru",
+    "ds": "Overdrive",
+    "url": "https://overdrive.autoguru.io/"
+  },
+  {
+    "org": "Automattic",
+    "ds": "Wordpress.com design handbook",
+    "url": "https://dotcombrand.wordpress.com/"
+  },
+  {
+    "org": "AWS",
+    "ds": "Cloudscape Design System",
+    "url": "https://cloudscape.design/"
+  },
+  {
+    "org": "AWS Amplify",
+    "ds": "Amplify UI",
+    "url": "https://ui.docs.amplify.aws/"
+  },
+  {
+    "org": "Backbase",
+    "ds": "Design system",
+    "url": "https://designsystem.backbase.com/v2/web-components/"
+  },
+  {
+    "org": "Banco Santander",
+    "ds": "Flame Design System",
+    "url": "https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander/"
+  },
+  {
+    "org": "Barnardo’s",
+    "ds": "Barnardo’s Design System",
+    "url": "https://design-system.barnardos.org.uk/"
+  },
+  {
+    "org": "BBC",
+    "ds": "Global Experience Language (GEL)",
+    "url": "https://www.bbc.co.uk/gel/"
+  },
+  {
+    "org": "Benevity",
+    "ds": "Skyline",
+    "url": "https://skyline.benevity.org/"
+  },
+  {
+    "org": "Biings",
+    "ds": "Biings Design System",
+    "url": "https://biings.design/"
+  },
+  {
+    "org": "BLiP",
+    "ds": "UAI Design System",
+    "url": "https://design.blip.ai/uai-design-system/"
+  },
+  {
+    "org": "Brainly",
+    "ds": "Brainly Style Guide",
+    "url": "https://styleguide.brainly.com/"
+  },
+  {
+    "org": "Brainly",
+    "ds": "Design",
+    "url": "https://design.brainly.com/"
+  },
+  {
+    "org": "Bridge",
+    "ds": "Bold design system",
+    "url": "https://bold.bridge.ufsc.br/"
+  },
+  {
+    "org": "Brightcore",
+    "ds": "UI",
+    "url": "https://ui.britecore.com/"
+  },
+  {
+    "org": "Brighte",
+    "ds": "Spark Design System",
+    "url": "https://spark.brighte.com.au/"
+  },
+  {
+    "org": "British Gas",
+    "ds": "Nucleus Design System",
+    "url": "https://britishgas.design/"
+  },
+  {
+    "org": "BT",
+    "ds": "Arc",
+    "url": "https://arc.bt.com/"
+  },
+  {
+    "org": "Buildit",
+    "ds": "Gravity",
+    "url": "https://style.buildit.digital/"
+  },
+  {
+    "org": "BuzzFeed",
+    "ds": "Solid Style Guide",
+    "url": "https://solid.buzzfeed.com/"
+  },
+  {
+    "org": "Canonical",
+    "ds": "Vanilla framework",
+    "url": "https://vanillaframework.io/"
+  },
+  {
+    "org": "Catho",
+    "ds": "Quantum",
+    "url": "https://catho.github.io/quantum/"
+  },
+  {
+    "org": "censhare GmbH",
+    "ds": "Zen",
+    "url": "https://design.censhare.com/"
+  },
+  {
+    "org": "Chakra team",
+    "ds": "Chakra UI",
+    "url": "https://chakra-ui.com/"
+  },
+  {
+    "org": "City of Boston",
+    "ds": "Fleet",
+    "url": "https://patterns.boston.gov/"
+  },
+  {
+    "org": "Cloudflare",
+    "ds": "CF-UI",
+    "url": "https://cloudflare.github.io/cf-ui/"
+  },
+  {
+    "org": "Consumer Financial Protection Bureau",
+    "ds": "CFPB Design Manual",
+    "url": "https://cfpb.github.io/design-system/"
+  },
+  {
+    "org": "Contentful",
+    "ds": "Forma 36",
+    "url": "https://f36.contentful.com/"
+  },
+  {
+    "org": "Culture Amp",
+    "ds": "Kaizen",
+    "url": "https://cultureamp.design/"
+  },
+  {
+    "org": "Datadog",
+    "ds": "Druids",
+    "url": "https://druids.datadoghq.com/"
+  },
+  {
+    "org": "Decathlon",
+    "ds": "Design System - Vitamin",
+    "url": "https://decathlon.design/"
+  },
+  {
+    "org": "Decentraland UI",
+    "ds": "Decentraland UI",
+    "url": "https://ui.decentraland.org/"
+  },
+  {
+    "org": "Design Language",
+    "ds": "E-Trade",
+    "url": "https://etrade.design/"
+  },
+  {
+    "org": "Discovery Education",
+    "ds": "Comet",
+    "url": "https://comet.discoveryeducation.com/"
+  },
+  {
+    "org": "Drawbotics",
+    "ds": "Drylus",
+    "url": "https://drawbotics.github.io/drylus/"
+  },
+  {
+    "org": "Duolingo",
+    "ds": "Design guidelines",
+    "url": "https://www.duolingo.com/design/"
+  },
+  {
+    "org": "Dynatrace",
+    "ds": "Barista",
+    "url": "https://barista.dynatrace.com/"
+  },
+  {
+    "org": "eBay",
+    "ds": "Playbook",
+    "url": "https://playbook.ebay.com/"
+  },
+  {
+    "org": "eBay",
+    "ds": "Skin",
+    "url": "https://ebay.github.io/skin/"
+  },
+  {
+    "org": "Elastic UI",
+    "ds": "Elastic UI Framework",
+    "url": "https://elastic.github.io/eui/"
+  },
+  {
+    "org": "Elia Group",
+    "ds": "Nova",
+    "url": "https://nova.eliagroup.io/"
+  },
+  {
+    "org": "ENGIE",
+    "ds": "Fluid",
+    "url": "https://www.engie.design/"
+  },
+  {
+    "org": "Enigma",
+    "ds": "Boundless",
+    "url": "https://boundless.js.org/"
+  },
+  {
+    "org": "Equinor",
+    "ds": "EDS",
+    "url": "https://eds.equinor.com/"
+  },
+  {
+    "org": "Estonia",
+    "ds": "Brand Estonia",
+    "url": "https://brand.estonia.ee/"
+  },
+  {
+    "org": "Eurostar",
+    "ds": "GLU",
+    "url": "https://style.eurostar.com/"
+  },
+  {
+    "org": "Family Search",
+    "ds": "Frontier",
+    "url": "https://www.familysearch.org/frontier/styleguide/"
+  },
+  {
+    "org": "Financial Times",
+    "ds": "Origami",
+    "url": "https://origami.ft.com/"
+  },
+  {
+    "org": "Finastra",
+    "ds": "Finastra Design System",
+    "url": "https://design.fusionfabric.cloud/"
+  },
+  {
+    "org": "Firefox",
+    "ds": "Photon Design System",
+    "url": "https://design.firefox.com/photon/"
+  },
+  {
+    "org": "Flexport",
+    "ds": "Latitude",
+    "url": "https://www.flexport.com/design/"
+  },
+  {
+    "org": "Foundation",
+    "ds": "Foundation",
+    "url": "https://get.foundation/"
+  },
+  {
+    "org": "Foyer",
+    "ds": "Foyer Design System",
+    "url": "https://design.foyer.lu/"
+  },
+  {
+    "org": "FutureLearn",
+    "ds": "FutureLearn Pattern Library",
+    "url": "https://storybook.futurelearn.com/"
+  },
+  {
+    "org": "GE",
+    "ds": "Edison Design System",
+    "url": "https://edisondesignsystem.com/"
+  },
+  {
+    "org": "General Electric",
+    "ds": "Predix Design System",
+    "url": "https://www.predix-ui.com/"
+  },
+  {
+    "org": "Github",
+    "ds": "Primer",
+    "url": "https://primer.style/"
+  },
+  {
+    "org": "GitLab",
+    "ds": "Pajamas Design System",
+    "url": "https://design.gitlab.com/"
+  },
+  {
+    "org": "GO-JEK",
+    "ds": "Asphalt",
+    "url": "https://asphalt.gojek.io/"
+  },
+  {
+    "org": "Goldman Sachs",
+    "ds": "Goldman Sachs Design System",
+    "url": "https://design.gs.com/home/"
+  },
+  {
+    "org": "GoodBarber",
+    "ds": "GoodBarber Design System",
+    "url": "https://www.goodbarber.com/uxdesign/"
+  },
+  {
+    "org": "Google",
+    "ds": "Material 2",
+    "url": "https://material.io/guidelines/#introduction-goals/"
+  },
+  {
+    "org": "Google",
+    "ds": "Material Design",
+    "url": "https://material.io/"
+  },
+  {
+    "org": "GOV.UK",
+    "ds": "GOV.UK Design System",
+    "url": "https://design-system.service.gov.uk/"
+  },
+  {
+    "org": "GOV.UK",
+    "ds": "GOV.UK Design System",
+    "url": "https://www.gov.uk/design-system/"
+  },
+  {
+    "org": "Government of Canada",
+    "ds": "Aurora Design System",
+    "url": "https://design.gccollab.ca/"
+  },
+  {
+    "org": "Government of Canada",
+    "ds": "Canada.ca design system",
+    "url": "https://www.canada.ca/en/government/about/design-system.html"
+  },
+  {
+    "org": "Gusto",
+    "ds": "Workbench",
+    "url": "https://workbench.gusto.com/"
+  },
+  {
+    "org": "Gympass",
+    "ds": "Yoga",
+    "url": "https://gympass.github.io/yoga/"
+  },
+  {
+    "org": "Halstack",
+    "ds": "Halstack Design System",
+    "url": "https://developer.dxc.com/design/"
+  },
+  {
+    "org": "Heartbeat",
+    "ds": ".pulse",
+    "url": "https://pulse.heartbeat.ua/"
+  },
+  {
+    "org": "Helios Design System",
+    "ds": "Hashicorp",
+    "url": "https://helios.hashicorp.design"
+  },
+  {
+    "org": "Help Scout",
+    "ds": "Help Scout Style Guide",
+    "url": "https://style.helpscout.com/"
+  },
+  {
+    "org": "Helsinki",
+    "ds": "Helsinki Design System",
+    "url": "https://hds.hel.fi/"
+  },
+  {
+    "org": "Heroku",
+    "ds": "Heroki Design",
+    "url": "https://design.herokai.com/"
+  },
+  {
+    "org": "Hewlett Packard",
+    "ds": "Grommet",
+    "url": "https://v2.grommet.io/"
+  },
+  {
+    "org": "Hewlett Packard",
+    "ds": "Grommet",
+    "url": "https://grommet.io/"
+  },
+  {
+    "org": "Hubspot",
+    "ds": "Canvas Design System",
+    "url": "https://canvas.hubspot.com/"
+  },
+  {
+    "org": "Hudl",
+    "ds": "Uniform",
+    "url": "https://uniform.hudl.com/"
+  },
+  {
+    "org": "IBM",
+    "ds": "Carbon Design System",
+    "url": "https://www.carbondesignsystem.com/"
+  },
+  {
+    "org": "IBM",
+    "ds": "IBM Design Language",
+    "url": "https://www.ibm.com/design/language/"
+  },
+  {
+    "org": "Indiana University",
+    "ds": "Rivet",
+    "url": "https://rivet.uits.iu.edu/"
+  },
+  {
+    "org": "Infor",
+    "ds": "Infor Design System",
+    "url": "https://design.infor.com/"
+  },
+  {
+    "org": "ING",
+    "ds": "Lion",
+    "url": "https://lion-web.netlify.app/"
+  },
+  {
+    "org": "Instacart",
+    "ds": "Snacks",
+    "url": "https://instacart.github.io/Snacks/"
+  },
+  {
+    "org": "Instructure Inc",
+    "ds": "Instructure UI",
+    "url": "https://instructure.design/"
+  },
+  {
+    "org": "Intuit",
+    "ds": "Design system",
+    "url": "https://design.intuit.com/quickbooks"
+  },
+  {
+    "org": "Intuit",
+    "ds": "QuickBooks Design System",
+    "url": "https://design.intuit.com/quickbooks/"
+  },
+  {
+    "org": "iStreamPlanet",
+    "ds": "Pebble Design System",
+    "url": "https://pebble.istreamplanet.net/"
+  },
+  {
+    "org": "Italian Public Administration",
+    "ds": ".it Designers Italy",
+    "url": "https://designers.italia.it/"
+  },
+  {
+    "org": "JetBrains",
+    "ds": "JetBrains Web UI",
+    "url": "https://jetbrains.github.io/ring-ui/"
+  },
+  {
+    "org": "JSTOR",
+    "ds": "Pharos",
+    "url": "https://pharos.jstor.org/"
+  },
+  {
+    "org": "Just Eat Takeaway",
+    "ds": "PIE",
+    "url": "https://pie.design/"
+  },
+  {
+    "org": "Kajabi",
+    "ds": "Sage",
+    "url": "https://sage.kajabi.com"
+  },
+  {
+    "org": "kickstart",
+    "ds": "kickstartDS",
+    "url": "https://www.kickstartds.com/"
+  },
+  {
+    "org": "Kiwi.com",
+    "ds": "Orbit",
+    "url": "https://orbit.kiwi/"
+  },
+  {
+    "org": "KoliBri",
+    "ds": "KoliBri - Public UI",
+    "url": "https://public-ui.github.io/"
+  },
+  {
+    "org": "Kontur",
+    "ds": "Kontur",
+    "url": "https://guides.kontur.ru/"
+  },
+  {
+    "org": "Latitude Financial",
+    "ds": "Basis Design System",
+    "url": "https://basis.now.sh/"
+  },
+  {
+    "org": "Liferay",
+    "ds": "Lexicon",
+    "url": "https://lexicondesign.io/"
+  },
+  {
+    "org": "LINE",
+    "ds": "LINE Design System",
+    "url": "https://designsystem.line.me/"
+  },
+  {
+    "org": "LocalTapiola",
+    "ds": "Duet",
+    "url": "https://www.duetds.com/"
+  },
+  {
+    "org": "Lonely Planet",
+    "ds": "Rizzo",
+    "url": "https://rizzo.lonelyplanet.com/"
+  },
+  {
+    "org": "Loom",
+    "ds": "Lens",
+    "url": "https://lens.loom.dev/"
+  },
+  {
+    "org": "Louder Than Ten",
+    "ds": "Manual",
+    "url": "https://www.louderthanten.com/manual/"
+  },
+  {
+    "org": "Mail.ru",
+    "ds": "Group Paradigm",
+    "url": "https://design.mail.ru/"
+  },
+  {
+    "org": "MailChimp",
+    "ds": "Mailchimp Content Styleguide",
+    "url": "https://styleguide.mailchimp.com/"
+  },
+  {
+    "org": "MailChimp",
+    "ds": "MailChimp Pattern Library",
+    "url": "https://ux.mailchimp.com/"
+  },
+  {
+    "org": "MailChimp",
+    "ds": "Mailchimp Patterns",
+    "url": "https://ux.mailchimp.com/patterns/"
+  },
+  {
+    "org": "Mantine",
+    "ds": "Mantine",
+    "url": "https://mantine.dev/"
+  },
+  {
+    "org": "Mapbox",
+    "ds": "Mapbox Base",
+    "url": "https://www.mapbox.com/base/"
+  },
+  {
+    "org": "Marvel",
+    "ds": "Marvel Styleguide",
+    "url": "https://marvelapp.com/styleguide/"
+  },
+  {
+    "org": "Material 3",
+    "ds": "",
+    "url": "https://m3.material.io/"
+  },
+  {
+    "org": "Materialize",
+    "ds": "Materialize CSS",
+    "url": "https://materializecss.com/"
+  },
+  {
+    "org": "Meetup",
+    "ds": "Swarm Design System",
+    "url": "https://meetup.github.io/swarm-design-system/"
+  },
+  {
+    "org": "Merck",
+    "ds": "Liquid",
+    "url": "https://www.emd.design/"
+  },
+  {
+    "org": "Mesosphere",
+    "ds": "CNVS",
+    "url": "https://mesosphere.github.io/cnvs/"
+  },
+  {
+    "org": "Microsoft",
+    "ds": "Fluent",
+    "url": "https://www.microsoft.com/design/fluent/"
+  },
+  {
+    "org": "Microsoft",
+    "ds": "Fluent UI",
+    "url": "https://developer.microsoft.com/en-us/fluentui#/"
+  },
+  {
+    "org": "Mixpanel",
+    "ds": "Mixpanel DS",
+    "url": "https://design.mixpanel.com/"
+  },
+  {
+    "org": "MongoDB",
+    "ds": "MongoDB Design System",
+    "url": "https://www.mongodb.design/"
+  },
+  {
+    "org": "MongoDB",
+    "ds": "MongoDB Design System",
+    "url": "https://mongodb.design/"
+  },
+  {
+    "org": "Monzo",
+    "ds": "Monzo Tone of Voice",
+    "url": "https://monzo.com/tone-of-voice/"
+  },
+  {
+    "org": "Morningstar",
+    "ds": "Morningstar Design System",
+    "url": "https://designsystem.morningstar.com/"
+  },
+  {
+    "org": "Mozilla",
+    "ds": "Protocol",
+    "url": "https://protocol.mozilla.org/"
+  },
+  {
+    "org": "Mozilla firefox",
+    "ds": "Acorn",
+    "url": "https://acorn.firefox.com/"
+  },
+  {
+    "org": "Mutual of Omaha",
+    "ds": "Digital Design Guide",
+    "url": "https://design.mutualofomaha.com/digital/"
+  },
+  {
+    "org": "MYOB",
+    "ds": "Feelix",
+    "url": "https://feelix.myob.com/"
+  },
+  {
+    "org": "NASA",
+    "ds": "NASA Web Design System",
+    "url": "https://github.com/bruffridge/nasawds/"
+  },
+  {
+    "org": "National Instruments",
+    "ds": "Fuse",
+    "url": "https://ni.github.io/design-system/"
+  },
+  {
+    "org": "NationBuilder",
+    "ds": "Radius",
+    "url": "https://www.nationbuilder.design/"
+  },
+  {
+    "org": "Neurodiversity",
+    "ds": "Design system",
+    "url": "https://neurodiversity.design/"
+  },
+  {
+    "org": "New York State",
+    "ds": "New York State Design System",
+    "url": "http://designsystem.ny.gov/"
+  },
+  {
+    "org": "New Zealand Government",
+    "ds": "New Zealand Government Design System (NZGDS)",
+    "url": "https://design-system-alpha.digital.govt.nz/"
+  },
+  {
+    "org": "New Zealand Ministry of Education",
+    "ds": "Design System",
+    "url": "https://designsystem.education.govt.nz/"
+  },
+  {
+    "org": "News UK",
+    "ds": "NewsKit",
+    "url": "https://www.newskit.co.uk/"
+  },
+  {
+    "org": "NHS.UK",
+    "ds": "Service Manual",
+    "url": "https://service-manual.nhs.uk/"
+  },
+  {
+    "org": "nib",
+    "ds": "Mesh Design System",
+    "url": "https://www.meshdesignsystem.com/"
+  },
+  {
+    "org": "Nordhealth",
+    "ds": "Nord Design System",
+    "url": "https://nordhealth.design/"
+  },
+  {
+    "org": "NS Dutch Railways",
+    "ds": "Tractie",
+    "url": "https://tractie.ns.nl/"
+  },
+  {
+    "org": "Nulogy",
+    "ds": "Nulogy Design System",
+    "url": "https://nulogy.design/"
+  },
+  {
+    "org": "OPower",
+    "ds": "OPattern",
+    "url": "https://ux.opower.com/opattern/"
+  },
+  {
+    "org": "Oracle",
+    "ds": "Alta",
+    "url": "https://www.oracle.com/webfolder/technetwork/jet/"
+  },
+  {
+    "org": "Oracle",
+    "ds": "Alta UI",
+    "url": "https://www.oracle.com/webfolder/ux/middleware/alta/index.html"
+  },
+  {
+    "org": "Oracle",
+    "ds": "Redwood",
+    "url": "https://redwood.oracle.com/"
+  },
+  {
+    "org": "Palantir",
+    "ds": "Blueprint",
+    "url": "https://blueprintjs.com/"
+  },
+  {
+    "org": "PAQT",
+    "ds": "Graphite Design System",
+    "url": "https://graphitedesignsystem.com/"
+  },
+  {
+    "org": "Patreon",
+    "ds": "Studio",
+    "url": "https://studio.patreon.com/"
+  },
+  {
+    "org": "PatternFly",
+    "ds": "PatternFly",
+    "url": "https://www.patternfly.org/v4/"
+  },
+  {
+    "org": "Pega Digital",
+    "ds": "Bolt Design System",
+    "url": "https://boltdesignsystem.com/"
+  },
+  {
+    "org": "Pegasystems",
+    "ds": "Pega Cosmos",
+    "url": "https://design.pega.com/"
+  },
+  {
+    "org": "Pinterest",
+    "ds": "Gestalt",
+    "url": "https://pinterest.github.io/gestalt/#/"
+  },
+  {
+    "org": "Pivotal software",
+    "ds": "Pivotal UI",
+    "url": "https://styleguide.pivotal.io/"
+  },
+  {
+    "org": "Pluralsight",
+    "ds": "Pluralsight Design System",
+    "url": "https://design-system.pluralsight.com/"
+  },
+  {
+    "org": "Priceline",
+    "ds": "Priceline One",
+    "url": "https://pricelinelabs.github.io/design-system/"
+  },
+  {
+    "org": "Priceline",
+    "ds": "Priceline One",
+    "url": "https://priceline.github.io/design-system/"
+  },
+  {
+    "org": "Pusher",
+    "ds": "Chameleon",
+    "url": "https://pusher.github.io/chameleon/"
+  },
+  {
+    "org": "Quicken Loans",
+    "ds": "Spark Design System",
+    "url": "https://sparkdesignsystem.com/"
+  },
+  {
+    "org": "Radix",
+    "ds": "Radix UI",
+    "url": "https://www.radix-ui.com/"
+  },
+  {
+    "org": "Rambler",
+    "ds": "Rambler",
+    "url": "https://rambler-digital-solutions.github.io/rambler-ui/"
+  },
+  {
+    "org": "Rambler",
+    "ds": "Ratio",
+    "url": "https://ui-kit.rambler.ru/#/"
+  },
+  {
+    "org": "React95",
+    "ds": "React95",
+    "url": "https://react95.github.io/React95/"
+  },
+  {
+    "org": "Red Hat",
+    "ds": "Patternfly Design System",
+    "url": "https://www.patternfly.org/"
+  },
+  {
+    "org": "REI",
+    "ds": "Cedar",
+    "url": "https://rei.github.io/rei-cedar-docs/"
+  },
+  {
+    "org": "Rendition",
+    "ds": "Rendition",
+    "url": "https://balena-io-modules.github.io/rendition/"
+  },
+  {
+    "org": "Reshaped",
+    "ds": "Reshaped",
+    "url": "https://reshaped.so/content/docs/getting-started/overview"
+  },
+  {
+    "org": "Royal Canin",
+    "ds": "Royal Canin’s Design Language",
+    "url": "https://developer.royalcanin.com/"
+  },
+  {
+    "org": "Sainsbury's",
+    "ds": "Luna",
+    "url": "https://luna.sainsburys.co.uk/"
+  },
+  {
+    "org": "Salesforce",
+    "ds": "Lightning Design System",
+    "url": "https://www.lightningdesignsystem.com/"
+  },
+  {
+    "org": "Samsung",
+    "ds": "Tizen CircularUI",
+    "url": "https://developer.samsung.com/one-ui-watch-tizen/"
+  },
+  {
+    "org": "SAP",
+    "ds": "Fiori",
+    "url": "https://experience.sap.com/fiori-design-web/"
+  },
+  {
+    "org": "SAP",
+    "ds": "Fiori Fundamentals",
+    "url": "https://sap.github.io/fundamental/"
+  },
+  {
+    "org": "SAP OpenUI",
+    "ds": "SAP OpenUI",
+    "url": "https://sdk.openui5.org/controls/"
+  },
+  {
+    "org": "Scania",
+    "ds": "Tegel",
+    "url": "https://tegel.scania.com/"
+  },
+  {
+    "org": "Scania Digital Design System",
+    "ds": "Scania Digital Design System",
+    "url": "https://tegel.scania.com/home/"
+  },
+  {
+    "org": "Seek",
+    "ds": "Braid Design System",
+    "url": "https://seek-oss.github.io/braid-design-system/"
+  },
+  {
+    "org": "Seek",
+    "ds": "Seek Style Guide",
+    "url": "https://seek-oss.github.io/seek-style-guide/"
+  },
+  {
+    "org": "Segment",
+    "ds": "Evergreen",
+    "url": "https://evergreen.segment.com/"
+  },
+  {
+    "org": "Semantic",
+    "ds": "Semantic UI",
+    "url": "https://semantic-ui.com/"
+  },
+  {
+    "org": "Semi Design",
+    "ds": "Semi Design",
+    "url": "https://semi.design/en-US/"
+  },
+  {
+    "org": "Semrush",
+    "ds": "Intergalactic",
+    "url": "https://developer.semrush.com/intergalactic/"
+  },
+  {
+    "org": "ServiceNow",
+    "ds": "ServiceNow Design System",
+    "url": "https://styleguide.servicenow.com/#!/"
+  },
+  {
+    "org": "ServiceTitan",
+    "ds": "Anvil",
+    "url": "https://anvil.servicetitan.com/"
+  },
+  {
+    "org": "Shopify",
+    "ds": "Polaris",
+    "url": "https://polaris.shopify.com/"
+  },
+  {
+    "org": "Siemens iX",
+    "ds": "Siemens iX",
+    "url": "https://ix.siemens.io/"
+  },
+  {
+    "org": "Singapore Government Design System",
+    "ds": "Singapore Government Design System",
+    "url": "https://www.designsystem.tech.gov.sg/"
+  },
+  {
+    "org": "Sipgate",
+    "ds": "pandaUI",
+    "url": "https://panda.sipgatedesign.com/"
+  },
+  {
+    "org": "SIS Gov UK",
+    "ds": "Intelligence Community Design System",
+    "url": "https://design.sis.gov.uk/"
+  },
+  {
+    "org": "Sky Toolkit",
+    "ds": "Sky Toolkit",
+    "url": "https://www.sky.com/toolkit/"
+  },
+  {
+    "org": "Skyscanner",
+    "ds": "Backpack",
+    "url": "https://skyscanner.design/"
+  },
+  {
+    "org": "Skyscanner",
+    "ds": "Backpack",
+    "url": "https://backpack.github.io/"
+  },
+  {
+    "org": "SpareBank 1",
+    "ds": "SpareBank 1 Designsystem",
+    "url": "https://design.sparebank1.no/"
+  },
+  {
+    "org": "Sprout Social",
+    "ds": "Seeds",
+    "url": "https://sproutsocial.com/seeds/"
+  },
+  {
+    "org": "Stack Overflow",
+    "ds": "Stacks",
+    "url": "https://stackoverflow.design/"
+  },
+  {
+    "org": "Starbucks Style Guide",
+    "ds": "Starbucks Style Guide",
+    "url": "https://www.starbucks.com/static/reference/styleguide/"
+  },
+  {
+    "org": "State of New South Wales",
+    "ds": "Digital NSW",
+    "url": "https://www.digital.nsw.gov.au/digital-design-system/"
+  },
+  {
+    "org": "StudyPortals",
+    "ds": "Styleguide",
+    "url": "https://styleguide.studyportals.com/"
+  },
+  {
+    "org": "Sumup",
+    "ds": "CircuitUI",
+    "url": "https://circuit.sumup.com/"
+  },
+  {
+    "org": "Teambition Clarity Design",
+    "ds": "Teambition Clarity Design",
+    "url": "https://design.teambition.com/"
+  },
+  {
+    "org": "Telefónica",
+    "ds": "Mística",
+    "url": "https://brandfactory.telefonica.com/mistica/"
+  },
+  {
+    "org": "Thumbtack",
+    "ds": "Thumbprint",
+    "url": "https://thumbprint.design/"
+  },
+  {
+    "org": "TOTVS",
+    "ds": "Portinari UI",
+    "url": "https://po-ui.io/"
+  },
+  {
+    "org": "Transport for West Midlands",
+    "ds": "Transport for West Midlands",
+    "url": "https://designsystem.tfwm.org.uk/"
+  },
+  {
+    "org": "Trello",
+    "ds": "Nachos",
+    "url": "https://design.trello.com/"
+  },
+  {
+    "org": "Twilio",
+    "ds": "Paste",
+    "url": "https://paste.twilio.design/"
+  },
+  {
+    "org": "U.S. Department of Veterans Affairs",
+    "ds": "Design system",
+    "url": "https://design.va.gov/"
+  },
+  {
+    "org": "U.S. Government",
+    "ds": "U.S. Web Design System",
+    "url": "https://designsystem.digital.gov/"
+  },
+  {
+    "org": "Uber",
+    "ds": "Base Web",
+    "url": "https://baseweb.design/"
+  },
+  {
+    "org": "United States Centers for Medicare & Medicaid Services",
+    "ds": "CMS Design System",
+    "url": "https://design.cms.gov/"
+  },
+  {
+    "org": "United States Patent and Trademark Office",
+    "ds": "USPTO UI Design Library",
+    "url": "https://uspto.github.io/USPTO-Design-System/"
+  },
+  {
+    "org": "United States Space Force",
+    "ds": "Astro",
+    "url": "https://www.astrouxds.com/"
+  },
+  {
+    "org": "USAJobs",
+    "ds": "USA jobs design system",
+    "url": "https://usajobs.github.io/design-system/"
+  },
+  {
+    "org": "uSwitch",
+    "ds": "uStyle",
+    "url": "https://ustyle.guide/"
+  },
+  {
+    "org": "Vercel",
+    "ds": "Geist",
+    "url": "https://vercel.com/design/introduction/"
+  },
+  {
+    "org": "Vimeo",
+    "ds": "Vimeo Design System",
+    "url": "https://vimeo.github.io/iris/"
+  },
+  {
+    "org": "VMware",
+    "ds": "Clarity Design System",
+    "url": "https://clarity.design/"
+  },
+  {
+    "org": "Volvo Cars Web Design System",
+    "ds": "Volvo",
+    "url": "https://developer.volvocars.com/design-system/web/"
+  },
+  {
+    "org": "VTEX",
+    "ds": "Styleguide",
+    "url": "https://styleguide.vtex.com/"
+  },
+  {
+    "org": "Vue Design System",
+    "ds": "Vue Design System",
+    "url": "https://vueds.com/"
+  },
+  {
+    "org": "Washington Post",
+    "ds": "Washington Post Design System (WPDS)",
+    "url": "https://build.washingtonpost.com/"
+  },
+  {
+    "org": "Webex",
+    "ds": "Momentum Design System",
+    "url": "https://momentum.design/"
+  },
+  {
+    "org": "Welcome to the Jungle",
+    "ds": "Welcome UI",
+    "url": "https://www.welcome-ui.com/"
+  },
+  {
+    "org": "Westpac",
+    "ds": "GEL",
+    "url": "https://gel.westpacgroup.com.au/"
+  },
+  {
+    "org": "WeWork",
+    "ds": "Ray",
+    "url": "https://ray.wework.com/"
+  },
+  {
+    "org": "Wise",
+    "ds": "Design system",
+    "url": "https://wise.design/"
+  },
+  {
+    "org": "Wonderbly",
+    "ds": "Lost My Name Design System",
+    "url": "https://design-system.lostmy.name/"
+  },
+  {
+    "org": "Wonderbly",
+    "ds": "Wonderbly Design System",
+    "url": "https://design-system.wonderbly.com/"
+  },
+  {
+    "org": "Wonderflow",
+    "ds": "Wanda Design System",
+    "url": "https://design.wonderflow.ai/"
+  },
+  {
+    "org": "Workday",
+    "ds": "Workday Canvas",
+    "url": "https://design.workday.com/"
+  },
+  {
+    "org": "Yelp",
+    "ds": "Yelp Styleguide",
+    "url": "https://www.yelp.com/styleguide/"
+  },
+  {
+    "org": "Zendesk",
+    "ds": "Garden",
+    "url": "https://garden.zendesk.com/"
+  }
+]
